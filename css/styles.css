@@ -1,0 +1,25 @@
+@import url(/css/header.css);
+@import url(/css/banner.css);
+@import url(/css/carousel.css);
+@import url(/css/topics.css);
+@import url(/css/contact.css);
+@import url(/css/footer.css);
+:root{
+    --background__color:#EBECEE;
+    --white:#FFFFFF;
+    --orange:#EB9B00;
+    --gradient__blue: linear-gradient(98deg, #002F52 35.49%, #326589 165.37%);
+    --main__font:'Poppins', sans-serif;
+    --blue:#002F52;
+    --secundary-font:'Josefin Sans';
+    --black:#000000;
+    --gray:#474646;
+    --light-gray:#858585;
+    
+}
+
+.body__class{
+    background-color: var(--background__color);
+    font-family: var(--main__font);
+
+}
