@@ -8,15 +8,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/55ME1zq.jpg" alt="project-screenshot" width="200" height="200/">
+<img src="https://i.imgur.com/55ME1zq.jpg" alt="project-screenshot" width="430" height="932/">
 
-<img src="https://i.imgur.com/X9WxgoN.jpg" alt="project-screenshot" width="200" height="200/">
+<img src="https://i.imgur.com/X9WxgoN.jpg" alt="project-screenshot" width="430" height="932/">
 
-<img src="https://i.imgur.com/wXamO14.jpg" alt="project-screenshot" width="800" height="800/">
+<img src="https://i.imgur.com/wXamO14.jpg" alt="project-screenshot" width="1366" height="1200/">
 
-<img src="https://i.imgur.com/TpHhyOy.jpg" alt="project-screenshot" width="300" height="300/">
+<img src="https://i.imgur.com/TpHhyOy.jpg" alt="project-screenshot" width="600" height="1400/">
 
-<img src="https://i.imgur.com/RyjS7cb.jpg" alt="project-screenshot" width="300" height="300/">
+<img src="https://i.imgur.com/RyjS7cb.jpg" alt="project-screenshot" width="600" height="1400/">
 
   
   
